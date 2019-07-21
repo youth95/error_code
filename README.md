@@ -25,7 +25,7 @@
 下载并安装最新的deno，并在自己的`.bashrc`中配置命令行
 
 ```bash
-alias gen='deno run https://raw.githubusercontent.com/youth95/error_code/gen.ts'
+alias gen='deno run https://raw.githubusercontent.com/youth95/error_code/master/gen.ts'
 ```
 
 ### 使用
